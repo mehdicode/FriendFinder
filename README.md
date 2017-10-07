@@ -1,5 +1,3 @@
-# Friend-Finder
-
 # Friend Finder - Node and Express Servers
 
 ### Compatibility based application
